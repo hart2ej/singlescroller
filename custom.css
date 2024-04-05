@@ -23,6 +23,7 @@ h2 {
     font-weight: 400;
     font-style: normal;
   }
+  
 .nav-link {
   font-family: "Anek Telugu", sans-serif;
   font-optical-sizing: auto;
@@ -44,7 +45,6 @@ background-image: src="images/rep.jpg";
 #page-top {
   font-family: "Anek Telugu", sans-serif;
 font-optical-sizing: auto;
-font-weight: <weight>;
 font-style: normal;
 font-variation-settings:
 "wdth" 100;
@@ -66,9 +66,8 @@ img {
 }
 
 .bg-primary {
-background-image: url(images/rep.jpg) !important;
+background-image: url(rep.jpg) !important;
 background-size: cover;
-background-repeat: no-repeat
 }
 
 h1 {
