@@ -1,0 +1,118 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+/* colors:
+Debut- #ACCEAD
+Fearless- #EDBD7B
+SN- #BEA3C4
+Red- #7D4048
+1989- #ADE4F8
+rep- #777777
+Lover- #F4A7C7
+folk- #C8C5BC
+ever- #C1AA8B
+midnights- #253449 */
+
+
+ul {
+font-style: italic;
+font-size: 18px;
+}
+
+h2 {
+
+    font-family: "Rammetto One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.nav-link {
+  font-family: "Anek Telugu", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+  font-size: 18px
+}
+
+header {
+font-family: "Anek Telugu", sans-serif;
+font-optical-sizing: auto;
+font-style: normal;
+font-variation-settings:
+"wdth" 100;
+background-image: src="images/rep.jpg";
+}
+
+#page-top {
+  font-family: "Anek Telugu", sans-serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+font-variation-settings:
+"wdth" 100;
+font-size: 18px;
+color: #575555;
+}
+
+.caption {
+font-style: italic;
+font-size: 14px;
+color: #292929;
+line-height: 1.2;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.bg-primary {
+background-image: url(images/rep.jpg) !important;
+background-size: cover;
+background-repeat: no-repeat
+}
+
+h1 {
+  font-size: 50px;
+}
+#mainNav {
+  background-color: #777777 !important;
+}
+
+.bg-dark {
+  background-color: #F4A7C7 !important;
+}
+
+.Midnights {
+color: #253449;
+list-style-type: disc;
+list-style-image: url(moon-stars.svg);
+list-style-position: outside;  
+}
+.Red {
+  color: #7D4048;
+    list-style-type: disc;
+    list-style-image: url(heartbreak.svg);
+    list-style-position: outside;  
+}
+.Folklore {
+  color: #6D6D6D;
+  list-style-type: disc;
+  list-style-image: url(vector-pen.svg);
+  list-style-position: outside;  
+}
+.Fearless {
+  color: #EDBD7B;
+  list-style-type: disc;
+  list-style-image: url(flower1.svg);
+  list-style-position: outside;  
+}
+.Lover {
+  color: #F4A7C7;
+  list-style-type: disc;
+  list-style-image: url(heart-arrow.svg);
+  list-style-position: outside;  
+}
+.btn {
+  background-color: #253449;
+  color: white;
+}
